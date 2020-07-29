@@ -16,11 +16,12 @@ You can see what I am currently up to on [joelcs.dev][1].
 
 ## 🌳 My Digital Garden
 
-You can find my blog posts on [https://dev.to/joelcodes][4]. I write about things
+You can find my blog posts on [dev.to/joelcodes][4]. I write about things
 I am familiar with including **JavaScript**, **ReactJS**, and **React-Native**.
-I also do reviews of software and hardware on my **YouTube** channel : [https://www.youtube.com/channel/UCrFpkY4jGdvS6e-kZNemqWg][5]
+I also do reviews of software and hardware on my **YouTube** channel : [youtube.com/channel/JoelTalksTech][5]
 
 [1]: https://joelcs.dev
 [2]: https://www.linkedin.com/in/coderjoel/
 [3]: https://twitter.com/bitwitjoe
 [4]: https://dev.to/joelcodes
+[5]: https://www.youtube.com/channel/UCrFpkY4jGdvS6e-kZNemqWg
