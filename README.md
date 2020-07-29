@@ -7,14 +7,14 @@ solutions about JavaScript, ReactJS and React-Native. I am exploring other areas
 
 You can see what I am currently up to on [joelcs.dev][1].
 
-## 📬 Get in touch
+## 📬 Let's get in touch
 
 - Twitter: [twitter.com/bitwitjoe][3]
 - Blog: [dev.to/joelcodes][4]
 - Web: [joelcs.dev][1]
 - LinkedIn: [linkedin.com/in/coderjoel][2]
 
-## 🌳 My Digital Garden
+## 👷 My online hub 
 
 You can find my blog posts on [dev.to/joelcodes][4]. I write about things
 I am familiar with including **JavaScript**, **ReactJS**, and **React-Native**.
