@@ -2,7 +2,7 @@
 
 Hey 👋🏻,
 
-I am Software Engineer currentl in Toronto, Canada. I write code and love open source
+I am Software Engineer currently in Toronto, Canada. I write code and love open source
 solutions about JavaScript, ReactJS and React-Native. I am exploring other areas of web, mobile and bot development.
 
 You can see what I am currently up to on [joelcs.dev][1].
