@@ -12,7 +12,7 @@ You can see what I am currently up to on [joelcs.dev][1].
 - Twitter: [twitter.com/bitwitjoe][3]
 - Blog: [dev.to/joelcodes][4]
 - Web: [joelcs.dev][1]
-- LinkedIn: [linkedin.com/in/coderjoel][2]
+- LinkedIn: [linkedin.com/in/joelcodes][2]
 
 ## 👷 My online hub 
 
@@ -21,7 +21,7 @@ I am familiar with including **JavaScript**, **ReactJS**, and **React-Native**.
 I also do reviews of software and hardware on my **YouTube** channel : [youtube.com/channel/JoelTalksTech][5]
 
 [1]: https://joelcs.dev
-[2]: https://www.linkedin.com/in/coderjoel/
+[2]: https://www.linkedin.com/in/joelcodes
 [3]: https://twitter.com/bitwitjoe
 [4]: https://dev.to/joelcodes
 [5]: https://www.youtube.com/channel/UCrFpkY4jGdvS6e-kZNemqWg
