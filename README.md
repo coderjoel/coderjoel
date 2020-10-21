@@ -16,7 +16,7 @@ You can see what I am currently up to on [joelcs.dev][1].
 
 ## 👷 My online hub 
 
-You can find my blog posts on [dev.to/joelcodes][4]. I write about things
+You can find my blog posts on [blog.joelcs.dev][4]. I write about things
 I am familiar with including **JavaScript**, **ReactJS**, and **React-Native**.
 I also do reviews of software and hardware on my **YouTube** channel : [youtube.com/channel/JoelTalksTech][5]
 
