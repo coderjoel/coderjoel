@@ -1,5 +1,3 @@
-[![Hello 👋🏻]
-
 Hey 👋🏻,
 
 I am Software Engineer based in Toronto, Canada. I write code and love open source solutions developed in JavaScript, ReactJS and React-Native. I am exploring other areas of web, mobile and bot development.
