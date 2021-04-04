@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://i.ibb.co/YkK5GTk/Untitled-design-3.png)][1]
+[![Hello 👋🏻]
 
 Hey 👋🏻,
 
